@@ -1,0 +1,1 @@
+Counter-up en vanilla JS qui se déclenche lorsque l'élement est visible sur l'écran
